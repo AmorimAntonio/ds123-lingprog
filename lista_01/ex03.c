@@ -18,19 +18,19 @@ int main(){
     //op 1
     if (op==1) {
         temp = val*1.8+32;
-        printf("%.2f C = %.2f F", val, temp);
+        printf("%.2f C = %.2f F \n", val, temp);
     }
 
     //op 2
     else if (op==2) {
         dist = val/1000;
-        printf("%.2f m = %.2f km", val, dist);
+        printf("%.2f m = %.2f km \n", val, dist);
     }
 
     //op 3
     else {
         massa = val*2.205;
-        printf("%.2f kg = %.2f lb, aproximadamente.", val, massa);
+        printf("%.2f kg = %.2f lb, aproximadamente. \n", val, massa);
     }
 
     return 0;

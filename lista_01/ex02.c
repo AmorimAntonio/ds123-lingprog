@@ -16,7 +16,7 @@ int main(){
     printf ("%.2f - %.2f = %.2f\n", n1, n2, n1-n2);
     printf ("%.2f * %.2f = %.2f\n", n1, n2, n1*n2);
     if (n2 == 0) {
-        printf("Nao e possivel dividir por zero. ");
+        printf("Nao e possivel dividir por zero. \n");
     } else {
         printf("%.2f / %.2f = %.2f\n", n1, n2, n1 / n2);
     }
