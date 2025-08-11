@@ -1,9 +1,10 @@
-# Linguagem de Programação (DS123)
+# Lista de exercícios 01
 
 **Aluno:** Antonio Amorim  
 **GRR:** 20255289  
 **Professor:** Helcio Soares Padilha  
 **Data:** 11 de agosto de 2025  
+**Disciplina:** Linguagem de Programação (DS123)  
 
 ---
 
