@@ -2,13 +2,13 @@
 
 **Aluno:** Antonio Amorim  
 **GRR:** 20255289  
-**Professor:** Hélcio Soares Padilha  
+**Professor:** Helcio Soares Padilha  
 **Data:** 11 de agosto de 2025  
 
 ---
 
 ## Descrição
-Este repositório reúne todas as atividades da disciplina **Linguagem de Programação** (código: DS123), ministrada pelo professor Hélcio Soares Padilha.  
+Este repositório reúne todas as atividades da disciplina **Linguagem de Programação** (código: DS123), ministrada pelo professor Helcio Soares Padilha.  
 
 O link enviado corresponde à pasta da **Atividade 01**, que contém a primeira lista de exercícios proposta.
 
