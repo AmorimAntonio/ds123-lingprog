@@ -1,4 +1,4 @@
-# Lista de exercícios 01
+# Lista de exercícios 02
 
 **Aluno:** Antonio Amorim  
 **GRR:** 20255289  
