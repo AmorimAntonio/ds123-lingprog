@@ -14,12 +14,12 @@ int main(){
         scanf("%d", &num[i]);
     }
 
-    int soma = 0;
+    double soma = 0;
     for (int i = 0; i < 4; i++){
-        soma = soma + num[1];
+        soma = soma + num[i];
     }
 
-    printf("Media = %d", soma/4);
+    printf("Media = %.2f", soma/4);
 
 
     return 0;

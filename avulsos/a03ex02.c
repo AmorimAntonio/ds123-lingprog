@@ -5,22 +5,21 @@
 
 int main(){
 
-    int num[4];
+    int num[5];
 
     printf("===Digite os numeros===\n");
 
-    for (int i = 0; i < 4; i++){
+    for (int i = 0; i < 5; i++){
         printf("Digite o numero %d: ", i+1);
         scanf("%d", &num[i]);
     }
 
-    int soma = 0;
-    for (int i = 0; i < 4; i++){
-        soma = soma + num[1];
+    printf("Numeros maiores que 10: ");
+    for (int i = 0; i < 5; i++){
+        if(num[i]>10){
+            printf(" %d; ", num[i]);
+        }
     }
-
-    printf("Media = %d", soma/4);
-
 
     return 0;
 }
