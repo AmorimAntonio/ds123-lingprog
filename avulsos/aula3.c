@@ -24,7 +24,18 @@ int main(){
         printf("\n"); //quando mudar linha, pula linha
     }
 
+    // soma dos elementos
+    int soma = 0;
+    for(int i = 0; i < 2; i++){
+        for(int j=0;j< 3; j++){
+           soma += matriz[i][j];
+        }
+    }
+
+    
+    printf("\nSoma dos elementos:%d\n", soma);
 
     return 0;
+
 }
 
