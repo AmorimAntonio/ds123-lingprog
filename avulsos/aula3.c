@@ -2,35 +2,29 @@
 
 int main(){
 
-    int notas[3];
+    int matriz[2][3]; //linha, coluna
 
     //entrada de dados
-    printf("Digite 3 notas: \n");
+    printf("Digite os elementos da matriz 2x3:\n");
 
-    int soma = 0;
-
-    for (int i = 0; i < 3; i++){
-        printf("Digite a nota %d: ", i+1);
-        scanf("%d", &notas[i]);
-    }
-
-
-    for (int i = 0; i < 3; i++){
-        soma += notas[i];
-    }
-
-    //Soma dos elementos
-    printf("Soma total: %d\n", soma);
-
-
-    int maior = notas[0];
-    for (int i = 0; i < 3; i++){ 
-        if(notas[i]>maior){
-            maior = notas[i];
+    for(int i = 0; i < 2; i++){ // linha
+        for(int j=0;j< 3; j++){ // coluna
+            printf("Elemento [%d][%d]: ", i, j);
+            scanf("%d", &matriz[i][j]);
         }
     }
 
-    printf("Maior nota: %d\n", maior);
+    //exibicao
+
+    printf("\nMatriz digitada:\n");
+    for(int i = 0; i < 2; i++){
+        for(int j=0;j< 3; j++){
+            printf("%d ", matriz[i][j]);
+        }
+        printf("\n"); //quando mudar linha, pula linha
+    }
+
 
     return 0;
 }
+
