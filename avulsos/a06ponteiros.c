@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+// operadores em C
+// vetores e matrizes em C
+// manipulação de string
+// ponteiros
+
 int main(){
     int numero = 42;
     int *ptr; // O ponteiro ptr pode armazenar o endereço de uma variavel int
