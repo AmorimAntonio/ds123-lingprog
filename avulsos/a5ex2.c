@@ -53,7 +53,7 @@ int main(){
     printf("%-12s", "Produto");
     for (int j = 0; j < DIAS; j++) {
         printf("%-8s", dias[j]);
-    }234
+    }
 
     printf("Total\n");
     printf("----------------------------------------------------------------------------\n");
