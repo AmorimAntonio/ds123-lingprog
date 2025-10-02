@@ -1,4 +1,4 @@
-# Lista de Exercícios 0X
+# Lista de Exercícios 06
 
 **Aluno:** Antonio Amorim  
 **GRR:** 20255289  
@@ -11,7 +11,7 @@
 ## Descrição
 Este repositório reúne todas as atividades da disciplina **Linguagem de Programação** (DS123).
 
-O link enviado corresponde à pasta da lista 0X.
+O link enviado corresponde à pasta da lista 06.
 
 Cada exercício está em sua própria pasta (`exercicio1/`, `exercicio2/`, `exercicio3/`, etc.) contendo:
 
@@ -22,7 +22,7 @@ Cada exercício está em sua própria pasta (`exercicio1/`, `exercicio2/`, `exer
 
 ## Estrutura da pasta
 ```
-lista_0X
+lista_06
 ├── exercicio1/
 │ ├── ex01.c
 │ └── ex01.exe
