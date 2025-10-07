@@ -34,7 +34,7 @@ lista_07
 │ └── ex03.exe
 └── README.md
 ```
----
+----
 
 ## Como Compilar e Executar
 
